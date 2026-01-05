@@ -76,15 +76,3 @@ Atualmente, concentro meus estudos e projetos em backend com Python (FastAPI), b
     Title = "SQL Server"
     style="padding-right: 10px;" 
 />
-
-### 📊 Estatísticas
-
-<p>
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=esdraszaoral-dev&show_icons=true&theme=dark&include_all_commits=all&locale=pt-br" 
-/>
-</p>
