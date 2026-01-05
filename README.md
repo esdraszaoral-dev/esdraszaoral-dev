@@ -1,17 +1,21 @@
 # 👨🏻‍💻🦅 Esdras Zaoral
-**`Desenvolvedor Full-Stack | Automação | Desenvolvedor em Desenvolvimento`**
+**`Desenvolvedor Backend Python | APIs, Integrações e Sistemas`**
 
-Meu nome é Esdras Lucas Zaoral dos Santos, tenho 21 anos e sou de Vinhedo-SP. Atualmente atuo como Analista de Sistemas, desenvolvendo soluções na Microsoft Power Platform (Power Apps, Power Automate, Power BI) e integrando processos para apoiar diferentes áreas do negócio. Sou estudante de Ciência da Computação pela UniAnchieta e venho direcionando minha carreira para o desenvolvimento web, com foco na construção de aplicações escaláveis e bem estruturadas.
+Sou Desenvolvedor Backend com foco em Python, APIs REST e integração de sistemas.
+Atuo na construção de soluções orientadas a negócio, com experiência em levantamento de requisitos, modelagem de dados e automação de processos corporativos.
 
-O desenvolvimento low-code foi meu ponto de partida, onde aprendi a enxergar problemas de negócio e transformá-los em soluções práticas. Isso me deu uma base sólida de arquitetura, análise de requisitos e visão de contexto. Hoje, estou aprofundando meus conhecimentos em programação, APIs, melhores práticas de desenvolvimento e versionamento, buscando evoluir para o ecossistema backend — sem deixar de estar aberto a atuar como front-end ou full stack conforme a necessidade do projeto.
+Venho de um background em sistemas e automação, o que me deu visão prática de ambientes produtivos, regras de negócio e impacto operacional.
+Atualmente, concentro meus estudos e projetos em backend com Python (FastAPI), bancos de dados relacionais e boas práticas de engenharia de software.
 
 ### 🔥 Em estudo e prática atualmente
 
-- 🐍 Python + FastAPI
-- 🌐 Desenvolvimento Web
-- 🔗 Integração entre sistemas (REST / HTTP / JSON)
-- 🗂️ Git e GitHub para versionamento e colaboração
-- 🧩 Arquitetura de soluções orientadas ao negócio
+- 🐍 Python (backend)
+- ⚡ FastAPI e APIs REST
+- 🗄️ PostgreSQL / SQL
+- 🔐 Autenticação e segurança (JWT)
+- 🔗 Integração entre sistemas
+- 🧪 Testes e boas práticas
+- 🐳 Docker (básico)
 
 <br>
 
