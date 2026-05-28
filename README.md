@@ -14,4 +14,4 @@ Analista de sistemas focado em resolver problemas de negócio com tecnologia.
 
 - ## 🐍 Contribuições
  
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/esdraszaoral-dev/esdraszaoral-dev/blob/output/github-contribution-grid-snake-dark.svg)
