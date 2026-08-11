@@ -4,7 +4,7 @@ Analista de sistemas focado em resolver problemas de negócio com tecnologia.
 
 ## 🚀 Skills
 
-- 💻 .NET
+- 💻 ASP NET MVC
 - 🐍 Python
 - 🗄️ SQL Server
 
